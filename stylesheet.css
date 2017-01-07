@@ -57,4 +57,9 @@ section code {
 .align-items-center .flex-container {
   align-items: center; }
 
+.align-self-flex-start .flex-container {
+  align-items: flex-end; }
+.align-self-flex-start .flex-item-align-self {
+  align-self: flex-start; }
+
 /*# sourceMappingURL=stylesheet.css.map */
